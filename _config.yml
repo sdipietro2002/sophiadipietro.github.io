@@ -4,7 +4,7 @@ site_theme    : "default"
 title         : "Sophia DiPietro | Academic Website"
 name          : &name "Sophia DiPietro"
 description   : &description "Graduate researcher at UM/RSMAES studying climate science, hazard mitigation, extreme events, and usable science."
-url           : "https://sophiadipietro.github.io"   # change to https://sophiadipietro.com when DNS is ready
+url           : "https://sophiadipietro.com"   # change to https://sophiadipietro.com when DNS is ready
 baseurl       : ""
 repository    : "sophiadipietro/sophiadipietro.github.io"
 
