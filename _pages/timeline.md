@@ -18,7 +18,7 @@ author_profile: true
 - **August 2024** – Began PhD Program at University of Miami in Atmospheric Science, advised by Amy Clement  
 
 - **May 2024** – Graduated Barnard College with a Degree in Environmental Science and Sustainability  
-
+   ![Graduation](/images/grad.jpg)
 - **May 2024** – Submitted Senior Thesis on ENSO-TC Relationship in HighResMIP Models  
 
 - **January 2024** – Presented poster at AMS Student Conference Titled  
