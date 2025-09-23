@@ -11,7 +11,7 @@ author_profile: true
   ![NASA Summer School](/images/2025-CCS-Summer-School-Group-Photo.jpg)
 
 - **June 2025** – Participated in AMS Science Policy Colloquium  
-  ![AMS Policy Colloquium](/images/ams_policy.jpg)
+  ![AMS Policy Colloquium](/images/unnamed-2.jpg)
 
 - **September 2024** – Attended JPL Workshop on Climate Science Risk  
 
