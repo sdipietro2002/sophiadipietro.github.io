@@ -8,7 +8,7 @@ author_profile: true
 # Recent Events
 
 - **August 2025** – Attended NASA Summer School on Satellite Observations  
-  ![NASA Summer School](/images/nasa_summer.jpg)
+  ![NASA Summer School](/images/2025-CCS-Summer-School-Group-Photo.jpg)
 
 - **June 2025** – Participated in AMS Science Policy Colloquium  
   ![AMS Policy Colloquium](/images/ams_policy.jpg)
