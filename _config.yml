@@ -34,8 +34,9 @@ navigation:
     url: /timeline/
   - title: "CV"
     url: /cv/
-
-# Site Settings
+include:
+  - _pages
+  - files
 timezone      : America/New_York
 markdown      : kramdown
 highlighter   : rouge
