@@ -3,7 +3,7 @@ locale        : "en-US"
 site_theme    : "default"
 title         : "Sophia DiPietro | Academic Website"
 name          : &name "Sophia DiPietro"
-description   : &description "Graduate researcher at UM/RSMAS studying extreme heat, humid heat, and ocean–land coupling."
+description   : &description "Graduate researcher at UM/RSMAES studying climate science, hazard mitigation, extreme events, and usable science."
 url           : "https://sophiadipietro.github.io"   # change to https://sophiadipietro.com when DNS is ready
 baseurl       : ""
 repository    : "sophiadipietro/sophiadipietro.github.io"
@@ -13,18 +13,18 @@ author:
   avatar      : "images/profile.png"   # add your headshot at /images/profile.png
   name        : "Sophia DiPietro"
   pronouns    : "she/her"
-  bio         : "Graduate Research Assistant, RSMAS (UM). Extreme heat, humid heat, and ocean–land coupling."
+  bio         : "Graduate Research Assistant, RSMAES (UM).  In 2024, I graduated from Barnard College of Columbia University with a degree in Environmental Science and Sustainability, and was a member of  Columbia-Barnard Women's Rowing team. My research interests include climate science, hazard mitigation, and extreme events. I enjoy working at the intersection of science and policy, and have experience with public outreach."
   location    : "Miami, FL"
-  email       : "YOUR_EMAIL@miami.edu"
+  email       : "sophia.dipietro@earth.miami.edu"
 
   # Academic profiles
-  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID"
-  orcid        : "https://orcid.org/YOUR-ORCID"
+  googlescholar: "https://scholar.google.com/citations?user=7DwsirMAAAAJ&hl=en"
+  orcid        : "https://orcid.org/0009-0004-8143-7075"
 
   # Social links
   github       : "sophiadipietro"
-  linkedin     : "YOUR-LINKEDIN"
-  twitter      : "YOUR-TWITTER"
+  linkedin     : "https://www.linkedin.com/in/sophia-d-6565261bb/"
+  bluesky      : "https://bsky.app/profile/sophiadipietro.bsky.social"
 
 # Navigation bar items
 navigation:
