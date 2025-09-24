@@ -10,7 +10,7 @@ repository    : "sophiadipietro/sophiadipietro.github.io"
 
 # Author sidebar/profile
 author:
-  avatar      : "images/sophia_dipietro.png"   # add your headshot at /images/profile.png
+  avatar      : "/images/sophia_dipietro.png"   # add your headshot at /images/profile.png
   name        : "Sophia DiPietro"
   pronouns    : "she/her"
   bio         : "PhD Student, RSMAES (UM). I am a PhD student in the Atmospheric Science Department, focusing on extreme events and climate change.."
