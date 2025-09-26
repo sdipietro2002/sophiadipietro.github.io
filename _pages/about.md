@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-![Sophia DiPietro](/images/profile.jpg)
+![Sophia DiPietro](/images/profile.jpeg)
 
 
 Hi! I’m **Sophia DiPietro**, a graduate researcher at the University of Miami’s Rosenstiel School of Marine and Atmospheric Science (RSMAS).  
