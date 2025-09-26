@@ -12,7 +12,10 @@ author_profile: true
 
 - **June 2025** – Participated in AMS Science Policy Colloquium  
   ![AMS Policy Colloquium](/images/unnamed-2.jpg)
-
+  
+- **April 2025** – Volunteered at Women and Girls Exploring Earth Science Day
+  ![Women and Girls](/images/unnamed-2.jpg)
+  
 - **September 2024** – Attended JPL Workshop on Climate Science Risk  
 
 - **August 2024** – Began PhD Program at University of Miami in Atmospheric Science, advised by Amy Clement  
