@@ -14,7 +14,7 @@ author_profile: true
   ![AMS Policy Colloquium](/images/unnamed-2.jpg)
   
 - **April 2025** – Volunteered at Women and Girls Exploring Earth Science Day
-  ![Women and Girls](/images/unnamed-2.jpg)
+  ![Women and Girls](/images/unnamed.jpg)
   
 - **September 2024** – Attended JPL Workshop on Climate Science Risk  
 
