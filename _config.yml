@@ -3,7 +3,7 @@ locale        : "en-US"
 site_theme    : "default"
 title         : "Sophia DiPietro | PhD Student @UM"
 name          : &name "Sophia DiPietro"
-description   : &description "PhD Student at UM/RSMAES studying climate science, hazard mitigation, extreme events, and usable science."
+description   : &description "PhD Student at UM/RSMAES studying climate science, regional climate dynamics, climate impacts, and science of actionable knowledge."
 url           : "https://sophiadipietro.com"   # change to https://sophiadipietro.com when DNS is ready
 baseurl       : ""
 repository    : "sophiadipietro/sophiadipietro.github.io"
@@ -13,7 +13,7 @@ author:
 
   name        : "Sophia DiPietro"
   pronouns    : "she/her"
-  bio         : "PhD Student, RSMAES (UM). I am a PhD student in the Atmospheric Science Department, focusing on extreme events and climate change."
+  bio         : "PhD Student, RSMAES (UM). I am a PhD student in the Atmospheric Science Department, focusing on climate science."
   location    : "Miami, FL"
   email       : "sophia.dipietro@earth.miami.edu"
 
