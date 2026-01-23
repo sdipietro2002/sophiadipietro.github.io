@@ -7,7 +7,7 @@ author_profile: true
 
 # Recent Events
 - **December 2025** – Presented Research at AGU 2025 in New Orleans
-  ![AGU 2025](images/AGU.jpg)
+  ![AGU 2025](/images/AGU.jpg)
   
 - **August 2025** – Attended NASA Summer School on Satellite Observations  
   ![NASA Summer School](/images/2025-CCS-Summer-School-Group-Photo.jpg)
