@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Recent Events
+
 - **April 2026** – Volunteered for WAVES (Water Advocates and Visionaries for the Environment and Sea) and guided a group of elementary schoolers to different science activities!
 
 - **December 2025** – Presented Research at AGU 2025 in New Orleans
