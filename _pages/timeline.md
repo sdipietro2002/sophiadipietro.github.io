@@ -7,6 +7,7 @@ author_profile: true
 
 # Recent Events
 - **April 2026** – Attended an AGU Congressional Visit Day to Advocate for Science on Capitol Hill.
+![AGU Congressional Visit](/images/AGU Congress.jpg)
 
 - **April 2026** – Volunteered for WAVES (Water Advocates and Visionaries for the Environment and Sea) and guided a group of elementary schoolers to different science activities!
 
