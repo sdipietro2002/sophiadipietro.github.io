@@ -4,6 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-📄 You can download my CV here: [Download CV (PDF)](/files/Copy of DiPietro CV (6).pdf)
+📄 You can download my CV here: [Download CV (PDF)](/files/DiPietroCV.pdf)
 
 Selected highlights can be found under the timeline tab. 
